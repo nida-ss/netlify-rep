@@ -1,6 +1,10 @@
 # JSX File
 used for intigrate html and js together.
 
+# `React Components`
+1. Functional component
+2. Class Component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
